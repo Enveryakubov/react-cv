@@ -43,8 +43,8 @@ $(document).ready(function() {
       })
   }, options)
     
-  $.each(effectTarget1, (i) => {
+//   $.each(effectTarget1, (i) => {
   
-    observer1.observe(effectTarget1[i])
-})
+//     observer1.observe(effectTarget1[i])
+// })
   })
